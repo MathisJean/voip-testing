@@ -1,0 +1,21 @@
+{
+  "name": "voip-testing",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ari": "^0.1.2",
+    "ari-client": "^2.2.0",
+    "axios": "^1.12.2",
+    "drachtio-srf": "^5.0.13",
+    "fs": "^0.0.1-security",
+    "websocket": "^1.0.35",
+    "ws": "^8.18.3"
+  }
+}
